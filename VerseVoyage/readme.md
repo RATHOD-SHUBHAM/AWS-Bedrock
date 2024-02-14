@@ -48,3 +48,6 @@ Max completion length (maxTokens) – Specify the maximum number of tokens to us
 Stop sequences (stopSequences) – Configure stop sequences that the model recognizes and after which it stops generating further tokens. Press the Enter key to insert a newline character in a stop sequence. Use the Tab key to finish inserting a stop sequence.
 
 ```
+---
+
+<img width="2242" alt="Screenshot 2024-02-14 at 5 23 11 PM" src="https://github.com/RATHOD-SHUBHAM/AWS-Bedrock/assets/58945964/c140753e-ecc7-4d24-a62c-a785012c58a8">
